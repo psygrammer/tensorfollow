@@ -1,8 +1,5 @@
 # tensorfollow
-텐서팔로우
-
-
-http://nbviewer.jupyter.org/github/psygrammer/tensorfollow/blob/master/part1/chatbot-retrieval/run_catbot.ipynb
+텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!
 
 
 # 스터디 정보 
