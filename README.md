@@ -18,7 +18,7 @@
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 |7/12|오리엔테이션 							|김무성 |
 |   |    |docker 기반 tensorflow 설치 & 환경 구성 |김무성||
-|   |    |(코드리뷰) DEEP LEARNING FOR CHATBOTS (WildML) |김무성|[원자료](https://github.com/dennybritz/chatbot-retrieval/), [코드리뷰](http://nbviewer.jupyter.org/github/psygrammer/tensorfollow/blob/master/part1/chatbot-retrieval/run_catbot.ipynb)|
+|   |    |(코드리뷰) DEEP LEARNING FOR CHATBOTS (WildML) - [원자료](https://github.com/dennybritz/chatbot-retrieval/) |김무성| [코드리뷰](http://nbviewer.jupyter.org/github/psygrammer/tensorfollow/blob/master/part1/chatbot-retrieval/run_catbot.ipynb)|
 
 
 
