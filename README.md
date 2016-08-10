@@ -14,9 +14,10 @@
 * PART II
   * (병렬Py) 파이썬 병렬 처리 : Python Parallel Programming Cookbook - https://www.amazon.com/Parallel-Programming-Cookbook-Giancarlo-Zaccone/dp/1785289586
   * (분산이론) 분산처리 프로그래밍 이론 : Programming Distributed Computing Systems: A Foundational Approach (MIT Press) - https://www.amazon.com/Programming-Distributed-Computing-Systems-Foundational/dp/0262018985
+  *  (텐서코드) 텐서플로우 코드 - 각자 찾아오기
 
 # 커리큘럼
-<b>PART I</b>
+<b>PART I (진행 중)</b>
 * 2016년 7월 12일 ~    
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
