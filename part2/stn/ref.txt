@@ -1,1 +1,2 @@
-https://github.com/tensorflow/models/tree/master/transformer
+- http://www.gitxiv.com/posts/5WTXTLuEA4Hd8W84G/spatial-transformer-networks
+- https://github.com/tensorflow/models/tree/master/transformer
